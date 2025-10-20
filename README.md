@@ -1,6 +1,6 @@
 # A data-driven framework that combines unsupervised clustering with multivariate time series prediction to achieve scenario-adaptive predictions of cutter suction dredger (CSD) construction performance.
 
-Note: The presented code represents only a subset of the core components and does not constitute a complete implementation. It is intended solely to illustrate a methodological framework for scenario-adaptive prediction of CSD productivity and energy consumption.
+Note: The presented code represents a subset of the core components and does not constitute a complete implementation. It is intended solely to illustrate a methodological framework for scenario-adaptive prediction of CSD productivity and energy consumption.
 
 ## ⚙️ Environment Setup
 
