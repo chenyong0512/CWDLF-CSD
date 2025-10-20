@@ -9,13 +9,13 @@ Removes outliers using 1.5×IQR and fills missing values by linear interpolation
 
 python preprocessing/boxplot_preprocessing.py
 
-##2. Savitzky–Golay (S-G) Smoothing
+## 2. Savitzky–Golay (S-G) Smoothing
 
 Smooths time series to reduce noise:
 
 python preprocessing/sg_smoothing.py
 
-##3. MIC-PCC Feature Selection
+## 3. MIC-PCC Feature Selection
 
 Two-stage feature selection:
 
@@ -28,7 +28,7 @@ python preprocessing/mic_pcc_feature_selection.py
 
 Output: preprocessed Excel files ready for model training.
 
-##4. DPSTimesNet Model
+## 4. DPSTimesNet Model
 
 Multi-output real-time time series prediction
 
