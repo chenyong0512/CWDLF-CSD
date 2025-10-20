@@ -227,8 +227,3 @@ def kepler_optimize(dataset, n_agents=5, n_iterations=3, seq_len=24):
 
     return final_model
 
-# ------------------------------
-# 6. 执行 KOA 搜索并训练模型
-# ------------------------------
-if __name__ == "__main__":
-    model = kepler_optimize(dataset, n_agents=5, n_iterations=3)
