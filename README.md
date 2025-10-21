@@ -94,7 +94,7 @@ model.train(df, epochs=50)
 predictions = model.predict(df)
 
 
-Evaluation metrics:
+Evaluation metrics:  
 RMSE  
 MAE  
 MAPE  
