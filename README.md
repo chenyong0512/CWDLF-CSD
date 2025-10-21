@@ -95,14 +95,10 @@ predictions = model.predict(df)
 
 
 Evaluation metrics:
-
-RMSE
-
-MAE
-
-MAPE
-
-R²
+RMSE  
+MAE  
+MAPE  
+R²  
 
 ## 🔍 4. SHAP Feature Importance Analysis
 
